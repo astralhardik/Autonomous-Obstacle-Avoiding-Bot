@@ -32,5 +32,4 @@ This robot uses an ultrasonic sensor mounted on a servo motor to scan its enviro
 
 ---
 
-## 📷 Block Diagram
 
